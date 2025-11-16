@@ -2,21 +2,21 @@ export const newProducts=[
     {
         id:1,
         name:"Blue Denim rugged Jeans",
-        imgUrl:'https://i.pinimg.com/736x/35/1b/0f/351b0f489e85a821c5ebf5a51836e95e.jpg' //string
+        imgUrl:'https://i.pinimg.com/736x/15/81/a0/1581a084cfaae0b8b9cb16597f3957e2.jpg' //string
     },
      {
         id:2,
-        name:"black Jeans",
-        imgUrl:'https://i.pinimg.com/736x/09/8d/1a/098d1abb6ebeb43d66f0956152224b7b.jpg' //string
+        name:"ford gmc",
+        imgUrl:'https://i.pinimg.com/736x/9b/f1/53/9bf1537bc6e5564199e1f8fe02fbb502.jpg' //string
     },
      {
         id:3,
-        name:"jots",
-        imgUrl:'https://i.pinimg.com/1200x/f9/3f/94/f93f940a522304752c1bbad035377e00.jpg' //string
+        name:"landcrusier tx",
+        imgUrl:'https://i.pinimg.com/736x/93/e9/37/93e9379eb0194aba745b6b8dfa821703.jpg' //string
     },
        {
         id:5,
-        name:"buggy Jeans 2",
-        imgUrl:'https://i.pinimg.com/736x/30/10/b2/3010b29aa4b1fab732c68dd8f4709399.jpg' //string
+        name:"bmw 320i",
+        imgUrl:'https://i.pinimg.com/1200x/77/71/33/7771338a3c7fe461210520ad82014209.jpg' //string
     },
 ];

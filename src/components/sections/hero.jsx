@@ -12,30 +12,28 @@ export const Hero = () => {
         style={{ backgroundImage: `url(${heroProduct})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
       >
         <h2 className="text-center text-[1rem] sm:text-3xl text-(--text-color)">
-          Reduce,Reuse,Revamp!<br/>
-          Explore our online thrift shop<br/>
-          For unique,eco-friendly fashion finds.<br/>
-          Shop with us and join the sustainable fashion movement
+          The Perfect Blend of Performance and Practicality.!<br/>
+          Stop dreaming and start driving! This isn't just another car; it's the versatile partner you've been searching for. The [Year] [Car Make & Model] masterfully combines sleek, modern aesthetics with the day-to-day functionality your life demands. Whether you're navigating urban streets or exploring the open road, this vehicle delivers an exceptional, confident experience every time you turn the key.
         </h2>
         <Btn text="shop now" className="relative z-0" />
       </div>
 
       <div className='bg-(--secondary-color) border-2 border-(--text-color) rounded-lg w-full mx-auto -mt-2 relative z-20 p-4 md:p-6 grid grid-cols-2 md:grid-cols-4 gap-0 items-center'>
         <div className="text-center p-4 border-r-2 border-b-2 md:border-b-0 border-(--text-color)">
-          <h5 className="text-2xl md:text-3xl font-bold">7</h5>
+          <h5 className="text-2xl md:text-3xl font-bold">10</h5>
           <p className="text-sm md:text-base">year experience</p>
         </div>
         <div className="text-center p-4 md:border-r-2 border-b-2 md:border-b-0 border-(--text-color)">
-          <h5 className="text-2xl md:text-3xl font-bold">2</h5>
-          <p className="text-sm md:text-base">opened in the country</p>
+          <h5 className="text-2xl md:text-3xl font-bold">7</h5>
+          <p className="text-sm md:text-base">opened country wide</p>
         </div>
         <div className="text-center p-4 border-r-2 border-(--text-color)">
-          <h5 className="text-2xl md:text-3xl font-bold">1k+</h5>
-          <p className="text-sm md:text-base">trousers sold</p>
+          <h5 className="text-2xl md:text-3xl font-bold">2m+</h5>
+          <p className="text-sm md:text-base">cars sold</p>
         </div>
         <div className="text-center p-4">
           <h5 className="text-2xl md:text-3xl font-bold">260+</h5>
-          <p className="text-sm md:text-base">variant trousers</p>
+          <p className="text-sm md:text-base">variant car models</p>
         </div>
       </div>
     </>

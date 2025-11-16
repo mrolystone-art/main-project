@@ -11,13 +11,13 @@ export const Features = () => {
             <img src={featureImage} className=' rounded-2xl' />
         </div>
         <div className=' text-2xl my-1 md:text-3xl lg:mt-23 space-y-4'>
-            <h2 className='font-bold'>Get yourself a fashionable drip</h2>
+            <h2 className='font-bold'>Get yourself the best car of your dreams</h2>
             <br/>
-            <p>Discover unique styles at unbeatable prices in our thrift shop. 
+            <p>Discover unique modified car's at unbeatable prices in our Timo Auto Motive Shop. 
             </p>
                 <ul>
                     <li>
-                        • Sustainable fashion choices   
+                        • Sustainable car choices   
                     </li>
                     <li>
                         • Affordable prices
