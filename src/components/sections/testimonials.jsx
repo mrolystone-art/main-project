@@ -8,29 +8,24 @@ export const Testimonials = () => {
   ]
 
   return (
-    <section className="py-12 bg-gray-50" aria-label="Customer testimonials">
-      <div className="max-w-6xl mx-auto px-4">
-        <h2 className="text-2xl font-semibold text-center">What Our Customers Say</h2>
-        <p className="text-center text-gray-500 mt-1 mb-6">Real reviews from happy shoppers</p>
-
-        <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-          {testimonials.map((t, i) => (
-            <article className="bg-white p-4 rounded-lg shadow" key={i}>
-              <div className="flex items-center gap-4">
-                <div className="w-12 h-12 rounded-full bg-gradient-to-r from-pink-400 via-red-400 to-yellow-400 text-white flex items-center justify-center font-bold">
-                  {t.name.split(' ').map(n => n[0]).slice(0,2).join('')}
-                </div>
-                <div>
-                  <h3 className="text-sm font-medium">{t.name}</h3>
-                  <p className="text-xs text-gray-500">{t.role}</p>
-                </div>
-              </div>
-              <p className="mt-3 text-gray-700 italic">“{t.quote}”</p>
-            </article>
-          ))}
-        </div>
+   <section>
+  <div class="flex flex-col md:flex-row justify-center items-center h-screen">
+  <div class="md:w-1/2 p-8">
+    <h1 class="text-3xl font-bold mb-4">What People Are Saying About Us</h1>
+    <div class="flex items-center mb-4">
+      <img src="https://i.pinimg.com/736x/0e/bd/b9/0ebdb9f8cb628dc5224bd2f84a2ff9e2.jpg" alt="Josh Smith" class="rounded-full mr-4 w-[100px]" />
+      <div>
+        <h2 class="text-lg font-bold">Jane Smith</h2>
+        <p class="text-gray-500">Manager of The New York Times</p>
       </div>
-    </section>
+    </div>
+    <p class="text-gray-700">"They are have a perfect touch for make something so professional, interest and useful for a lot of people."</p>
+  </div>
+  <div class="md:w-1/2 p-8">
+    <img src="https://i.pinimg.com/1200x/ef/8d/65/ef8d65dc55007bd5dde881085e8d274e.jpg" alt="Living Room" class="w-full h-auto" />
+  </div>
+</div>
+</section>
   )
 }
 
