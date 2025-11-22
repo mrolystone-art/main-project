@@ -25,7 +25,7 @@ const Footer = () => {
       </label>
 
       <button type="submit" class="h-12 rounded-sm border border-indigo-600 bg-indigo-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 dark:text-white dark:hover:bg-indigo-700 dark:hover:text-white">
-        Sign Up
+        shop now
       </button>
     </form>
   </div>
