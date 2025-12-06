@@ -4,7 +4,7 @@ export const products = [
         name: "Bmw m4 F82",
         description: "The BMW M4 (F82): A turbocharged, $425\text{ hp}$ M-Division coupe that delivers supercar speed, track-ready agility via a CFRP roof and Active M Differential, and thrilling daily driving torque.",
         price: 45000000.00,
-        imageUrl: "https://i.pinimg.com/736x/b1/d2/ab/b1d2abc0cd826b5e5eb09ea322b2e042.jpg",
+        imageUrl: "https://i.pinimg.com/736x/7c/d5/95/7cd5951193291f5049f8e19645e513e8.jpg",
     },
     {
         id: 2,
@@ -18,7 +18,7 @@ export const products = [
         name: "GTR 35",
         description: "The Nissan GT-R (R35) is a $565\text{ hp}$ hand-built Twin-Turbo V6 supercar slayer with the relentless grip of ATTESA E-TS AWD, a rear-mounted DCT, and a multi-function display, capable of $2.9\text{-second}$ 0-60 mph launches..",
         price: 6000000.00,
-        imageUrl: "https://i.pinimg.com/736x/a9/ed/92/a9ed92cf71cfd67180b22dd0fcb27538.jpg",
+        imageUrl: "https://i.pinimg.com/736x/1e/df/b2/1edfb20848094a9baf2a07cbb4854ff7.jpg",
     },
     {
         id: 4,

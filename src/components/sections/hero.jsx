@@ -12,8 +12,7 @@ export const Hero = () => {
         style={{ backgroundImage: `url(${heroProduct})`, backgroundSize: 'cover', backgroundPosition: 'center' }}
       >
         <h2 className="text-center text-[1rem] sm:text-3xl text-(--text-color)">
-          The Perfect Blend of Performance and Practicality.!<br/>
-          Stop dreaming and start driving! This isn't just another car; it's the versatile partner you've been searching for. The [Year] [Car Make & Model] masterfully combines sleek, modern aesthetics with the day-to-day functionality your life demands. Whether you're navigating urban streets or exploring the open road, this vehicle delivers an exceptional, confident experience every time you turn the key.
+          
         </h2>
         <Btn text="shop now" className="relative z-0" />
       </div>

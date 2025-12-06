@@ -12,7 +12,7 @@ export const Best = () => {
             </p>
         </div>
         <div>
-            <img src="https://i.pinimg.com/736x/b7/ad/f4/b7adf42d581f8024a204e3791ce69e91.jpg " alt="best jeans" className='rounded-2xl ' />
+            <img src="https://i.pinimg.com/736x/cb/82/80/cb8280524cfed3ca4a058f890ac99f18.jpg " alt="best jeans" className='rounded-2xl ' />
         </div>
     </div>
   )

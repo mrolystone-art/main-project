@@ -3,47 +3,25 @@ export const allProducts = [
         id: 1,
         name: "Bmw M5 competion",
         price: 55000000.00,
-        imageUrl: "https://i.pinimg.com/736x/84/9a/2f/849a2f4d3dea94b3800ca5cef2f5d883.jpg",
+        imageUrl: "https://i.pinimg.com/736x/27/13/59/27135980b93f6cfe8f2a8f7f05bb4929.jpg",
     },
     {
         id: 2,
         name: "Dodge Hellcat",
         price: 70000000.00,
-        imageUrl: "https://i.pinimg.com/736x/3d/65/2a/3d652a8b75a0c3551f91691cf86e164b.jpg",
+        imageUrl: "https://i.pinimg.com/1200x/8c/6c/f8/8c6cf877d441e31cecf03bd9842ee8ac.jpg",
     },
     {   id: 3,  
         name: "Dodge Red Demon",
         price: 6000000.00,
-        imageUrl: "https://i.pinimg.com/736x/ea/03/fc/ea03fcc810cd1e664dd129aff1853122.jpg",
+        imageUrl: "https://i.pinimg.com/736x/34/0b/7a/340b7a7377befb842129e9bde6b99a30.jpg",
     },
     {
         id: 4,
         name: "Ford Mustang GT",
         price: 8000000.00,
-        imageUrl:" https://i.pinimg.com/736x/52/6c/1e/526c1e09e9c706e754c372454d3dc8fd.jpg",
+        imageUrl:" https://i.pinimg.com/1200x/03/86/57/038657d7552cf4e3b336a84df4acb062.jpg",
     },
-    {
-        id: 5,
-        name: "Modified Ford Mustang GT",
-        price: 700000000.00,
-        imageUrl: "https://i.pinimg.com/1200x/63/42/3f/63423f0db23e7a32d1637ce196546d1a.jpg",
-    },
-    {
-        id: 6,
-        name: "GLE ml350",
-        price: 5500000000.00,
-        imageUrl: "https://i.pinimg.com/1200x/7f/3c/6d/7f3c6d9df24d816a002c6e68a8e4cb2d.jpg",
-    },
-    {
-        id: 7,                              
-        name: "Koenigsegg",
-        price: 6500000000.00,
-        imageUrl: "https://i.pinimg.com/736x/b8/37/a0/b837a0efcaacf304054fd1d9c38bf901.jpg",
-    },
-    {
-        id: 8,
-        name: "Chevrolet camaro",
-        price: 75000000.00,
-        imageUrl: "https://i.pinimg.com/736x/38/87/7a/38877adbdee85f62638eef618c065832.jpg",
-    }, 
+   
+   
 ]      

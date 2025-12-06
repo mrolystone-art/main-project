@@ -2,7 +2,7 @@ export const newProducts=[
     {
         id:1,
         name:"ford gmc",
-        imgUrl:'https://i.pinimg.com/736x/15/81/a0/1581a084cfaae0b8b9cb16597f3957e2.jpg' //string
+        imgUrl:'https://i.pinimg.com/1200x/72/ac/7b/72ac7b4ec3687599b560d84c1713bd32.jpg' //string
     },
      {
         id:2,
