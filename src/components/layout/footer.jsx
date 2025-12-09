@@ -177,7 +177,7 @@ const Footer = () => {
       </div>
     </div>
 
-    <p class="text-xs text-gray-500">© 2022. Company Name. All rights reserved.</p>
+    <p class="text-xs text-gray-500">© 2022. Timo auto motive company. All rights reserved.</p>
   </div>
 </footer>
 	)
