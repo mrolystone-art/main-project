@@ -22,7 +22,7 @@ export const Testimonials = () => {
     <p class="text-gray-700">"They are have a perfect touch for make something so professional, interest and useful for a lot of people."</p>
   </div>
   <div class="md:w-1/2 p-8">
-    <img src="https://i.pinimg.com/736x/1b/3a/ee/1b3aee4ebf3762de52d1aac158a7417e.jpg" alt="Living Room" class="w-full h-auto" />
+    <img src="https://i.pinimg.com/1200x/a1/8e/b4/a18eb46f1d1729a967a713f4f4602dd3.jpg" alt="Living Room" class="w-full h-auto" />
   </div>
 </div>
 </section>

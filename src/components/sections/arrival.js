@@ -2,7 +2,7 @@ export const newProducts=[
     {
         id:1,
         name:"ford gmc",
-        imgUrl:'https://i.pinimg.com/1200x/72/ac/7b/72ac7b4ec3687599b560d84c1713bd32.jpg' //string
+        imgUrl:'https://i.pinimg.com/736x/2c/54/db/2c54db0c28671074149b14dd6e9f2e02.jpg' //string
     },
      {
         id:2,
@@ -15,8 +15,9 @@ export const newProducts=[
         imgUrl:'https://i.pinimg.com/736x/93/e9/37/93e9379eb0194aba745b6b8dfa821703.jpg' //string
     },
        {
-        id:5,
+        id:4,
         name:"bmw 320i",
-        imgUrl:'https://i.pinimg.com/1200x/77/71/33/7771338a3c7fe461210520ad82014209.jpg' //string
+        imgUrl:'https://i.pinimg.com/736x/25/58/86/255886c1c7442ecb12828766cca1540a.jpg' //string
     },
+    
 ];
